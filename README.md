@@ -13,6 +13,11 @@ This project investigates the dynamics of the global music market, analyzing tre
    - High Energy, High Valence
    - High Energy, Low Valence (Least Popular)
 
+Inspiration: https://www.researchgate.net/figure/Emotional-classification-of-music-by-energy-and-valence-parameters-with-exemplary-songs_fig2_334084112
+
+![Screenshot 2025-01-22 at 3 36 44 PM](https://github.com/user-attachments/assets/dd4befb8-3a23-45c8-aa82-f527560b1c10)
+
+
 ## Methodology
 1. **Data Cleaning:** Before analysis, we addressed missing or inconsistent data. This included removing duplicate entries, handling missing values using imputation where appropriate, and standardizing the formatting of song attributes.
 2. **Exploratory Data Analysis (EDA):** Key metrics and trends were visualized to understand historical patterns and recent shifts.
